@@ -1,0 +1,6 @@
+{
+  "name": "Frezzo - The Desserts",
+  "description": "A delightful dessert shop assistant that recommends sweet treats and generates beautiful custom dessert visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
